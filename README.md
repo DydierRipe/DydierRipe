@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DydierRipe
 - 👀 I’m interested in i dont know, why you want to get this information?
-- 🌱 I’m currently learning Cpp? I supose, but I know the basics thigs about the languaje
+- 🌱 I’m a cpp developer learning front-end with javascript, HTML and Css
 - 💞️ I’m looking to collaborate on nothin yet
 - 📫 How to reach me contact me on discord DydierRipe#4400
 
