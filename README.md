@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DydierRipe
-- 👀 I’m interested in i dont know, why you want to get this information?
-- 🌱 I’m a cpp developer learning front-end with javascript, HTML and Css
-- 💞️ I’m looking to collaborate on nothin yet
-- 📫 How to reach me contact me on discord DydierRipe#4400
+- 👋 Hi, I’m @DydierRipe.
+- 👀 I’m interested in Capybaras and English.
+- 🌱 I’m a c++, js, html and css developer learning C#.
+- 💞️ I’m tryna lead a Sena team despite doing everything in that project so I guess I am the team.
+- 📫 To reach me just find me in any social media as Dydier Ripe.
 
 <!---
 DydierRipe/DydierRipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
