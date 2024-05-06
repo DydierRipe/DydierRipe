@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DydierRipe.
 - 👀 I’m interested in Capybaras and English.
-- 🌱 I’m a c++, js, html and css developer learning C#.
-- 💞️ I’m tryna lead a Sena team despite doing everything in that project so I guess I am the team.
+- 🌱 I’m a c++, js, SQL, html and css developer learning C#.
+- 💞️ I’m fooling around since school ended, what will be next for me?
 - 📫 To reach me just find me in any social media as Dydier Ripe.
 
 <!---
